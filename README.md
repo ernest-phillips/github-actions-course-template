@@ -1,2 +1,3 @@
 # github-actions-course-template
-Project repo for gettign started with GitHub Actions on Pluralsight
+
+Project repo for getting started with GitHub Actions on Pluralsight
